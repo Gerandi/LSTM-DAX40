@@ -1,2 +1,2 @@
-# LSTM-US30
-Using LSTM to optimise portfolios based on US30 by MarketCap as of June 2024
+# LSTM-DAX40
+Using LSTM to optimise portfolios based on DAX40 stock picks and then comparing the lstm portfolios wih DAX40 index
